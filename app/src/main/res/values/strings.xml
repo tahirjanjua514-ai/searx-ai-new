@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">SEARX AI</string>
+    <string name="app_tagline">Next-Gen Media Downloader &amp; Player</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_downloads">Downloads</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">SEARX AI</string>
+    <string name="home_subtitle">Fast, secure social media video analyzer &amp; downloader</string>
+    <string name="search_placeholder">Paste YouTube, TikTok, FB, or IG link...</string>
+    <string name="paste_button">Paste</string>
+    <string name="analyze_button">Analyze Link</string>
+    <string name="platforms_header">Supported Platforms</string>
+    
+    <!-- Platforms -->
+    <string name="platform_youtube">YouTube</string>
+    <string name="platform_tiktok">TikTok</string>
+    <string name="platform_facebook">Facebook</string>
+    <string name="platform_instagram">Instagram</string>
+
+    <!-- Download Options & Status -->
+    <string name="media_preview">Media Preview</string>
+    <string name="download_options">Download Options</string>
+    <string name="quality_video">Video Quality</string>
+    <string name="quality_audio_only">Audio Only (MP3/M4A)</string>
+    <string name="btn_download">Download Now</string>
+    <string name="btn_watch_online">Watch Online</string>
+    
+    <!-- Downloads Tab -->
+    <string name="downloads_title">Media Library</string>
+    <string name="tab_active">Active (%d)</string>
+    <string name="tab_completed">Completed (%d)</string>
+    <string name="tab_failed">Failed (%d)</string>
+    <string name="no_downloads">No downloads yet</string>
+    <string name="clear_history">Clear History</string>
+
+    <!-- Player -->
+    <string name="player_title">Media Player</string>
+    <string name="playback_speed">Speed</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="setting_language">Language / زبان</string>
+    <string name="setting_theme">Theme Mode</string>
+    <string name="setting_wifi_only">Download on Wi-Fi Only</string>
+    <string name="setting_storage_info">Storage Usage</string>
+    <string name="setting_privacy_policy">Privacy Policy</string>
+    <string name="setting_about">About SEARX AI</string>
+    <string name="setting_feedback">Feedback &amp; Support</string>
+</resources>

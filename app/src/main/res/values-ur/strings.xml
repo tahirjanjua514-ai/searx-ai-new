@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">SEARX AI</string>
+    <string name="app_tagline">سوشل میڈیا ویڈیو ڈاؤنلوڈر اور پلیئر</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">ہوم</string>
+    <string name="nav_downloads">ڈاؤنلوڈز</string>
+    <string name="nav_settings">ترتیبات</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">SEARX AI</string>
+    <string name="home_subtitle">تیز اور محفوظ ویڈیو اینالائزر اور ڈاؤنلوڈر</string>
+    <string name="search_placeholder">یوٹیوب، ٹک ٹاک، فیس بک یا انسٹاگرام لنک چسپاں کریں...</string>
+    <string name="paste_button">چسپاں کریں</string>
+    <string name="analyze_button">لنک چیک کریں</string>
+    <string name="platforms_header">معاون پلیٹ فارمز</string>
+    
+    <!-- Platforms -->
+    <string name="platform_youtube">یوٹیوب</string>
+    <string name="platform_tiktok">ٹک ٹاک</string>
+    <string name="platform_facebook">فیس بک</string>
+    <string name="platform_instagram">انسٹاگرام</string>
+
+    <!-- Download Options & Status -->
+    <string name="media_preview">ویڈیو کا پیش نظارہ</string>
+    <string name="download_options">ڈاؤنلوڈ کے اختیارات</string>
+    <string name="quality_video">ویڈیو کوالٹی</string>
+    <string name="quality_audio_only">صرف آڈیو (MP3)</string>
+    <string name="btn_download">ابھی ڈاؤنلوڈ کریں</string>
+    <string name="btn_watch_online">آن لائن دیکھیں</string>
+    
+    <!-- Downloads Tab -->
+    <string name="downloads_title">میڈیا لائبریری</string>
+    <string name="tab_active">جاری (%d)</string>
+    <string name="tab_completed">مکمل (%d)</string>
+    <string name="tab_failed">ناکام (%d)</string>
+    <string name="no_downloads">ابھی تک کوئی ڈاؤنلوڈ نہیں</string>
+    <string name="clear_history">ہسٹری صاف کریں</string>
+
+    <!-- Player -->
+    <string name="player_title">ویڈیو پلیئر</string>
+    <string name="playback_speed">رفتار</string>
+
+    <!-- Settings -->
+    <string name="settings_title">ترتیبات</string>
+    <string name="setting_language">زبان / Language</string>
+    <string name="setting_theme">تھیم موڈ</string>
+    <string name="setting_wifi_only">صرف وائی فائی پر ڈاؤنلوڈ کریں</string>
+    <string name="setting_storage_info">اسٹوریج کا استعمال</string>
+    <string name="setting_privacy_policy">پرائیویسی پالیسی</string>
+    <string name="setting_about">ایپ کے بارے میں</string>
+    <string name="setting_feedback">رائے اور رابطہ</string>
+</resources>
